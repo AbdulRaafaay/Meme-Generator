@@ -1,0 +1,25 @@
+body{
+    font-family: 'Inter',sans-serif;
+}
+
+header{
+    background: linear-gradient(to right, #672280, #A626D3);
+    height: 65px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+header > img {
+    width: 31.31px;
+    height: 26.22px;
+    margin-left: 20px;
+}
+
+header > span {
+    color: white;
+    font-weight: 700;
+    font-family: 'Karla';
+    font-size: 20.75px;
+    line-height: 100%;
+}
